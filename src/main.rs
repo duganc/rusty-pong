@@ -25,10 +25,7 @@ fn main() -> amethyst::Result<()> {
 		    .with_stage(
 		        Stage::with_backbuffer()
 		            .clear_target([0.0, 0.0, 0.0, 1.0], 1.0)
-		            .with_pass(
-		                DrawFlat2D::new()
-		                    .with_transparency(ColorMask::all(), ALPHA, None)
-		            )
+		            .with_pass(DrawFlat2D::new()),
 		    );
 
 		let game_data = GameDataBuilder::default()
