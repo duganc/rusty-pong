@@ -1,0 +1,11 @@
+/Users/christopherdugan/rust_projects/pong/target/debug/deps/fluent-dd56cdadd81cff1f.rmeta: /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/lib.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/bundle.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/entry.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/errors.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/resolve.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/resource.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/types.rs
+
+/Users/christopherdugan/rust_projects/pong/target/debug/deps/fluent-dd56cdadd81cff1f.d: /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/lib.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/bundle.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/entry.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/errors.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/resolve.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/resource.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/types.rs
+
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/lib.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/bundle.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/entry.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/errors.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/resolve.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/resource.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-0.4.3/src/types.rs:

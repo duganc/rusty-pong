@@ -1,0 +1,1 @@
+{"rustc":4478238335522424646,"features":"[]","target":10986774236322286102,"profile":14672114853574311971,"path":232543925207868785,"deps":[["crossbeam-epoch v0.3.1","crossbeam_epoch",2693973440416761501],["crossbeam-utils v0.2.2","crossbeam_utils",14416169707082149045]],"local":[{"Precalculated":"0.2.0"}],"rustflags":[],"edition":"Edition2015"}

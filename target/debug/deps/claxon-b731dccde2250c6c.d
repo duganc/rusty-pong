@@ -1,0 +1,11 @@
+/Users/christopherdugan/rust_projects/pong/target/debug/deps/libclaxon-b731dccde2250c6c.rlib: /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/lib.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/crc.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/input.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/error.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/frame.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/subframe.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/metadata.rs
+
+/Users/christopherdugan/rust_projects/pong/target/debug/deps/claxon-b731dccde2250c6c.d: /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/lib.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/crc.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/input.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/error.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/frame.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/subframe.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/metadata.rs
+
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/lib.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/crc.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/input.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/error.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/frame.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/subframe.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.3.3/src/metadata.rs:

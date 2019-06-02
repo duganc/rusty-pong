@@ -1,0 +1,11 @@
+/Users/christopherdugan/rust_projects/pong/target/debug/deps/libgleam-9b0cd556a91c561b.rlib: /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.17/src/lib.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.17/src/gl.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.17/src/gl_fns.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.17/src/gles_fns.rs /Users/christopherdugan/rust_projects/pong/target/debug/build/gleam-977d1266bf56c95b/out/gl_and_gles_bindings.rs /Users/christopherdugan/rust_projects/pong/target/debug/build/gleam-977d1266bf56c95b/out/gl_bindings.rs /Users/christopherdugan/rust_projects/pong/target/debug/build/gleam-977d1266bf56c95b/out/gles_bindings.rs
+
+/Users/christopherdugan/rust_projects/pong/target/debug/deps/gleam-9b0cd556a91c561b.d: /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.17/src/lib.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.17/src/gl.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.17/src/gl_fns.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.17/src/gles_fns.rs /Users/christopherdugan/rust_projects/pong/target/debug/build/gleam-977d1266bf56c95b/out/gl_and_gles_bindings.rs /Users/christopherdugan/rust_projects/pong/target/debug/build/gleam-977d1266bf56c95b/out/gl_bindings.rs /Users/christopherdugan/rust_projects/pong/target/debug/build/gleam-977d1266bf56c95b/out/gles_bindings.rs
+
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.17/src/lib.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.17/src/gl.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.17/src/gl_fns.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gleam-0.6.17/src/gles_fns.rs:
+/Users/christopherdugan/rust_projects/pong/target/debug/build/gleam-977d1266bf56c95b/out/gl_and_gles_bindings.rs:
+/Users/christopherdugan/rust_projects/pong/target/debug/build/gleam-977d1266bf56c95b/out/gl_bindings.rs:
+/Users/christopherdugan/rust_projects/pong/target/debug/build/gleam-977d1266bf56c95b/out/gles_bindings.rs:

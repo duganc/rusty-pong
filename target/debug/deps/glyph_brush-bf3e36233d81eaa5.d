@@ -1,0 +1,10 @@
+/Users/christopherdugan/rust_projects/pong/target/debug/deps/libglyph_brush-bf3e36233d81eaa5.rlib: /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/lib.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/glyph_brush.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/glyph_brush/builder.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/glyph_calculator.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/owned_section.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/section.rs
+
+/Users/christopherdugan/rust_projects/pong/target/debug/deps/glyph_brush-bf3e36233d81eaa5.d: /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/lib.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/glyph_brush.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/glyph_brush/builder.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/glyph_calculator.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/owned_section.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/section.rs
+
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/lib.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/glyph_brush.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/glyph_brush/builder.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/glyph_calculator.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/owned_section.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/glyph_brush-0.4.3/src/section.rs:

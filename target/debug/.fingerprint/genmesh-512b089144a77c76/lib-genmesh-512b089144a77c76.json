@@ -1,0 +1,1 @@
+{"rustc":4478238335522424646,"features":"[]","target":8596929340928334164,"profile":9935990280773120926,"path":12272937331775146597,"deps":[["cgmath v0.16.1","cgmath",14804948671310099550],["mint v0.5.1","mint",17962522313540140173]],"local":[{"Precalculated":"0.6.2"}],"rustflags":[],"edition":"Edition2015"}

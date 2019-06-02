@@ -1,0 +1,11 @@
+/Users/christopherdugan/rust_projects/pong/target/debug/deps/gif-b8b2ed7a8e2d0207.rmeta: /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/lib.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/traits.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/common.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/util.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/reader/mod.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/reader/decoder.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/encoder.rs
+
+/Users/christopherdugan/rust_projects/pong/target/debug/deps/gif-b8b2ed7a8e2d0207.d: /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/lib.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/traits.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/common.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/util.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/reader/mod.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/reader/decoder.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/encoder.rs
+
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/lib.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/traits.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/common.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/util.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/reader/mod.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/reader/decoder.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.1/src/encoder.rs:

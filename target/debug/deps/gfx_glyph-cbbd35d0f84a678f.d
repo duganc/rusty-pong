@@ -1,0 +1,10 @@
+/Users/christopherdugan/rust_projects/pong/target/debug/deps/libgfx_glyph-cbbd35d0f84a678f.rlib: /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/lib.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/builder.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/pipe.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/trace.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/shader/vert.glsl /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/shader/frag.glsl
+
+/Users/christopherdugan/rust_projects/pong/target/debug/deps/gfx_glyph-cbbd35d0f84a678f.d: /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/lib.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/builder.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/pipe.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/trace.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/shader/vert.glsl /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/shader/frag.glsl
+
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/lib.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/builder.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/pipe.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/trace.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/shader/vert.glsl:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_glyph-0.13.3/src/shader/frag.glsl:

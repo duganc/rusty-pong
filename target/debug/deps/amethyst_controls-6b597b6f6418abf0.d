@@ -1,0 +1,9 @@
+/Users/christopherdugan/rust_projects/pong/target/debug/deps/libamethyst_controls-6b597b6f6418abf0.rlib: /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst_controls-0.4.0/src/lib.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst_controls-0.4.0/src/bundles.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst_controls-0.4.0/src/components.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst_controls-0.4.0/src/resources.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst_controls-0.4.0/src/systems.rs
+
+/Users/christopherdugan/rust_projects/pong/target/debug/deps/amethyst_controls-6b597b6f6418abf0.d: /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst_controls-0.4.0/src/lib.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst_controls-0.4.0/src/bundles.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst_controls-0.4.0/src/components.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst_controls-0.4.0/src/resources.rs /Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst_controls-0.4.0/src/systems.rs
+
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst_controls-0.4.0/src/lib.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst_controls-0.4.0/src/bundles.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst_controls-0.4.0/src/components.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst_controls-0.4.0/src/resources.rs:
+/Users/christopherdugan/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst_controls-0.4.0/src/systems.rs:
